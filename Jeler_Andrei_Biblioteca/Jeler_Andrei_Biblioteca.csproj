@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5A847CAB-40C6-45CF-9C31-09633FF2BB23}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Jeler_Andrei_Biblioteca</RootNamespace>
+    <AssemblyName>Jeler_Andrei_Biblioteca</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Adaugare_carte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adaugare_carte.Designer.cs">
+      <DependentUpon>Adaugare_carte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conectare_admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conectare_admin.Designer.cs">
+      <DependentUpon>Conectare_admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conectare_cititor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conectare_cititor.Designer.cs">
+      <DependentUpon>Conectare_cititor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminare_carte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eliminare_carte.Designer.cs">
+      <DependentUpon>Eliminare_carte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Imprumut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Imprumut.Designer.cs">
+      <DependentUpon>Imprumut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Imprumuturi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Imprumuturi.Designer.cs">
+      <DependentUpon>Imprumuturi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inregistrare_admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inregistrare_admin.Designer.cs">
+      <DependentUpon>Inregistrare_admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inregistrare_cititor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inregistrare_cititor.Designer.cs">
+      <DependentUpon>Inregistrare_cititor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lista_carti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lista_carti.Designer.cs">
+      <DependentUpon>Lista_carti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lista_cititori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lista_cititori.Designer.cs">
+      <DependentUpon>Lista_cititori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lista_imprumuturi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lista_imprumuturi.Designer.cs">
+      <DependentUpon>Lista_imprumuturi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lista_Plati.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lista_Plati.Designer.cs">
+      <DependentUpon>Lista_Plati.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificare_carte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificare_carte.Designer.cs">
+      <DependentUpon>Modificare_carte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Plata_penalitatilor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Plata_penalitatilor.Designer.cs">
+      <DependentUpon>Plata_penalitatilor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Prelungire_Imprumut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prelungire_Imprumut.Designer.cs">
+      <DependentUpon>Prelungire_Imprumut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Returnare_carte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Returnare_carte.Designer.cs">
+      <DependentUpon>Returnare_carte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Start.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Start.Designer.cs">
+      <DependentUpon>Start.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Adaugare_carte.resx">
+      <DependentUpon>Adaugare_carte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conectare_admin.resx">
+      <DependentUpon>Conectare_admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conectare_cititor.resx">
+      <DependentUpon>Conectare_cititor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eliminare_carte.resx">
+      <DependentUpon>Eliminare_carte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imprumut.resx">
+      <DependentUpon>Imprumut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imprumuturi.resx">
+      <DependentUpon>Imprumuturi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inregistrare_admin.resx">
+      <DependentUpon>Inregistrare_admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inregistrare_cititor.resx">
+      <DependentUpon>Inregistrare_cititor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lista_carti.resx">
+      <DependentUpon>Lista_carti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lista_cititori.resx">
+      <DependentUpon>Lista_cititori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lista_imprumuturi.resx">
+      <DependentUpon>Lista_imprumuturi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lista_Plati.resx">
+      <DependentUpon>Lista_Plati.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificare_carte.resx">
+      <DependentUpon>Modificare_carte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plata_penalitatilor.resx">
+      <DependentUpon>Plata_penalitatilor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prelungire_Imprumut.resx">
+      <DependentUpon>Prelungire_Imprumut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Returnare_carte.resx">
+      <DependentUpon>Returnare_carte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Start.resx">
+      <DependentUpon>Start.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Fundaluri\biblioteca-investitori.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Fundaluri\jarmanbluetmdisplay.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Fundaluri\empty_book.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Fundaluri\a-book-a-week-image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Fundaluri\o-BOOKS-facebook.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Fundaluri\C66X8TmU4AEbbiS.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Fundaluri\anaf-va-opri-activitatea-in-magazinele-care-nu-emit-bon-fiscal-de-la-1-martie-amenzile-ajung-la-15-000_size9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Fundaluri\518164-backgrounds.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Fundaluri\libraries.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

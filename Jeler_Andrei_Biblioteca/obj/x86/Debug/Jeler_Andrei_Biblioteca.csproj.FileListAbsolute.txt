@@ -1,0 +1,138 @@
+C:\Users\L18A\Desktop\XI\Sem II\C#\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Conectare_cititor.resources
+C:\Users\L18A\Desktop\XI\Sem II\C#\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Start.resources
+C:\Users\L18A\Desktop\XI\Sem II\C#\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Properties.Resources.resources
+C:\Users\L18A\Desktop\XI\Sem II\C#\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.csproj.GenerateResource.Cache
+C:\Users\L18A\Desktop\XI\Sem II\C#\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\bin\Debug\Jeler_Andrei_Biblioteca.exe
+C:\Users\L18A\Desktop\XI\Sem II\C#\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\bin\Debug\Jeler_Andrei_Biblioteca.pdb
+C:\Users\L18A\Desktop\XI\Sem II\C#\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.exe
+C:\Users\L18A\Desktop\XI\Sem II\C#\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.pdb
+C:\Users\L18A\Desktop\XI\Sem II\C#\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Conectare_admin.resources
+C:\Users\L18A\Desktop\XI\Sem II\C#\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Lista_carti.resources
+C:\Users\L18A\Desktop\XI\Sem II\C#\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\L18A\Desktop\XI\Sem II\C#\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Inregistrare_cititor.resources
+C:\Users\L18A\Desktop\XI\Sem II\C#\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Inregistrare_admin.resources
+C:\Users\L18A\Desktop\XI\Sem II\C#\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Adaugare_carte.resources
+C:\Users\L18A\Desktop\XI\Sem II\C#\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Eliminare_carte.resources
+C:\Users\L18A\Desktop\XI\Sem II\C#\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Imprumuturi.resources
+C:\Users\jeler_zep90z3\Desktop\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.exe
+C:\Users\jeler_zep90z3\Desktop\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.pdb
+C:\Users\jeler_zep90z3\Desktop\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\bin\Debug\Jeler_Andrei_Biblioteca.exe
+C:\Users\jeler_zep90z3\Desktop\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\bin\Debug\Jeler_Andrei_Biblioteca.pdb
+C:\Users\jeler_zep90z3\Desktop\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\jeler_zep90z3\Desktop\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Adaugare_carte.resources
+C:\Users\jeler_zep90z3\Desktop\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Conectare_admin.resources
+C:\Users\jeler_zep90z3\Desktop\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Conectare_cititor.resources
+C:\Users\jeler_zep90z3\Desktop\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Eliminare_carte.resources
+C:\Users\jeler_zep90z3\Desktop\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Imprumuturi.resources
+C:\Users\jeler_zep90z3\Desktop\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Inregistrare_admin.resources
+C:\Users\jeler_zep90z3\Desktop\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Inregistrare_cititor.resources
+C:\Users\jeler_zep90z3\Desktop\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Lista_carti.resources
+C:\Users\jeler_zep90z3\Desktop\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Modificare_carte.resources
+C:\Users\jeler_zep90z3\Desktop\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Start.resources
+C:\Users\jeler_zep90z3\Desktop\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Properties.Resources.resources
+C:\Users\jeler_zep90z3\Desktop\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.csproj.GenerateResource.Cache
+C:\Users\jeler_zep90z3\Desktop\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Imprumut.resources
+C:\Users\jeler_zep90z3\Desktop\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Lista_imprumuturi.resources
+C:\Users\jeler_zep90z3\Desktop\Jeler_Andrei_Biblioteca\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Returnare_carte.resources
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.exe
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.pdb
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\bin\Debug\Jeler_Andrei_Biblioteca.exe
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\bin\Debug\Jeler_Andrei_Biblioteca.pdb
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Adaugare_carte.resources
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Conectare_admin.resources
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Conectare_cititor.resources
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Eliminare_carte.resources
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Imprumut.resources
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Imprumuturi.resources
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Inregistrare_admin.resources
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Inregistrare_cititor.resources
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Lista_carti.resources
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Lista_imprumuturi.resources
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Modificare_carte.resources
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Returnare_carte.resources
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Start.resources
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Properties.Resources.resources
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.csproj.GenerateResource.Cache
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Plata_penalitatilor.resources
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Lista_Plati.resources
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Lista_cititori.resources
+C:\Users\jeler_zep90z3\Desktop\Proiecte_C#_2017\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Prelungire_Imprumut.resources
+C:\Users\L18A\Desktop\XII\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.exe
+C:\Users\L18A\Desktop\XII\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.pdb
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.exe
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.pdb
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\bin\Debug\Jeler_Andrei_Biblioteca.exe
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\bin\Debug\Jeler_Andrei_Biblioteca.pdb
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Adaugare_carte.resources
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Conectare_admin.resources
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Conectare_cititor.resources
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Eliminare_carte.resources
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Imprumut.resources
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Imprumuturi.resources
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Inregistrare_admin.resources
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Inregistrare_cititor.resources
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Lista_carti.resources
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Lista_cititori.resources
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Lista_imprumuturi.resources
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Lista_Plati.resources
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Modificare_carte.resources
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Plata_penalitatilor.resources
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Prelungire_Imprumut.resources
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Returnare_carte.resources
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Start.resources
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Properties.Resources.resources
+C:\Users\L18A\Desktop\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.csproj.GenerateResource.Cache
+C:\Users\L18A\Desktop\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.exe
+C:\Users\L18A\Desktop\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.pdb
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\bin\Debug\Jeler_Andrei_Biblioteca.exe
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\bin\Debug\Jeler_Andrei_Biblioteca.pdb
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Adaugare_carte.resources
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Conectare_admin.resources
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Conectare_cititor.resources
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Eliminare_carte.resources
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Imprumut.resources
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Imprumuturi.resources
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Inregistrare_admin.resources
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Inregistrare_cititor.resources
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Lista_carti.resources
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Lista_cititori.resources
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Lista_imprumuturi.resources
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Lista_Plati.resources
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Modificare_carte.resources
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Plata_penalitatilor.resources
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Prelungire_Imprumut.resources
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Returnare_carte.resources
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Start.resources
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Properties.Resources.resources
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.csproj.GenerateResource.cache
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.exe
+C:\Users\jeler_qruqb8a\OneDrive\Desktop\Proiect atestat\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.pdb
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.csprojAssemblyReference.cache
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Adaugare_carte.resources
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Conectare_admin.resources
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Conectare_cititor.resources
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Eliminare_carte.resources
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Imprumut.resources
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Imprumuturi.resources
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Inregistrare_admin.resources
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Inregistrare_cititor.resources
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Lista_carti.resources
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Lista_cititori.resources
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Lista_imprumuturi.resources
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Lista_Plati.resources
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Modificare_carte.resources
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Plata_penalitatilor.resources
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Prelungire_Imprumut.resources
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Returnare_carte.resources
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Start.resources
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.csproj.GenerateResource.cache
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.exe
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.pdb
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\bin\Debug\Jeler_Andrei_Biblioteca.exe
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\bin\Debug\Jeler_Andrei_Biblioteca.pdb
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.Properties.Resources.resources
+C:\Users\jeler_jk5r9ey\Desktop\usb\Proiect atestat Jeler Andrei\Proiect atestat\Jeler_Andrei_Biblioteca_V2\Jeler_Andrei_Biblioteca\obj\x86\Debug\Jeler_Andrei_Biblioteca.csproj.CoreCompileInputs.cache
